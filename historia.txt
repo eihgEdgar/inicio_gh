@@ -4,6 +4,6 @@ Linea dos 234
 Linea tres 34568912
 Linea cuatro 456789123
 
-Linea de hotfix
-Otra linea de hotfix modificada en hotfix
-linea dos conflictos
+Linea de hotfix modifcaciones raras para conflicto en hot fix
+otra linea pero esta si en hotfix
+
